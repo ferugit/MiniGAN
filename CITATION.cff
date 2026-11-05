@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use MiniGAN, please cite the paper."
+title: "MiniGAN"
+type: software
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Abad
+    given-names: Lidia
+  - family-names: López
+    given-names: Fernando
+  - family-names: Luque
+    given-names: Jordi
+preferred-citation:
+  type: conference-paper
+  title: "Towards an Efficient and Accurate Speech Enhancement by a Comprehensive Ablation Study"
+  authors:
+    - family-names: Abad
+      given-names: Lidia
+    - family-names: López
+      given-names: Fernando
+    - family-names: Luque
+      given-names: Jordi
+  collection-title: "Proc. IberSPEECH 2024"
+  year: 2024
+  start: 101
+  end: 105
+  doi: "10.21437/IberSPEECH.2024-21"
